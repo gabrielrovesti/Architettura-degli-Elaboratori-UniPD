@@ -1,0 +1,4 @@
+- codifica in complemento a due + esempio di -117
+- penalità di salto (branch penalty)
+- pipeline a due stadi
+- formato fisso istruzioni
