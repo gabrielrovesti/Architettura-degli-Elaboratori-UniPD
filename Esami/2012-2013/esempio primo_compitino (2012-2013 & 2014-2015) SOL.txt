@@ -1,7 +1,0 @@
-Es 2
-risposta A
-perchè:
-indirizzo=blocchi mem(2^20)*[dimensione blocco(2^11)]=31 bit per indirizzo;
-ora, la parola si identifica con la dimensione del blocco cioè gli 11 bit riferiti ai 2KB mentre per trovarti il set:
-dimensione memoria cache / numero di vie / dimensione linea = 10 bit
-per differenza il tag dovrebbe essere di 10 bit
